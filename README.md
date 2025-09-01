@@ -14,12 +14,17 @@ https://www.blockbench.net/
 
 https://www.blockbench.net/](https://mesh2motion.org/
 
+https://www.mixamo.com/
 
-
-
+https://nilooy.github.io/character-animation-combiner/
 
 
 ## 2D Image Generation
+
+https://huggingface.co/spaces/NihalGazi/FLUX-Unlimited
+
+
+
 
 
 ## Sound and Music
