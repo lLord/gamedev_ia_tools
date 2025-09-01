@@ -4,7 +4,7 @@ Game Development Open Source and IA tools
 
 ## 3D design
 
-[Blender ](https://www.blender.org/)
+[Blender] (https://www.blender.org/)
 
 https://www.blockbench.net/
 
@@ -12,7 +12,7 @@ https://www.blockbench.net/
 
 ## 3D Character Animation
 
-https://www.blockbench.net/](https://mesh2motion.org/
+https://mesh2motion.org/
 
 https://www.mixamo.com/
 
